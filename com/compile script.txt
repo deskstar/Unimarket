@@ -1,0 +1,7 @@
+Run at C:\
+
+javac -cp "." com/DirAcyUtil.java
+
+javac com/libs/GraphNode.java
+
+java -cp "." com/DirAcyUtil
